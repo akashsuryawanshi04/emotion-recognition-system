@@ -1,0 +1,21 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+#Datasets 
+data/
+
+# Trained Models
+saved_models/*.h5
+
+# Virtual environment
+venv/
+env/
+
+#  System files
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.log
