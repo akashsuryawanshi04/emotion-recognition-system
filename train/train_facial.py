@@ -1,16 +1,4 @@
-"""
 
-Author - Akash Suryawanshi 
-train/train_facial.py
-Full training pipeline for Facial Emotion Recognition.
-
-Dataset  : FER2013
-           Download from: https://www.kaggle.com/datasets/msambare/fer2013
-           Extract so that: data/fer2013/train/ and data/fer2013/test/ exist
-
-Run:
-    python train/train_facial.py
-"""
 
 import os
 import sys
