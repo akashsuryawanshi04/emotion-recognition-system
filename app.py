@@ -10,6 +10,18 @@ Run:
     streamlit run app.py
 """
 
+import os
+import sys
+import cv2
+import numpy as np
+import tempfile
+import threading
+import time
+import streamlit as st
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+from PIL import Image
+from tensorflow.keras.models import load_model
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from models.facial_model import predict_facial_emotion, FACIAL_EMOTIONS
