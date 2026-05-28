@@ -207,4 +207,7 @@ if __name__ == '__main__':
     plot_confusion_matrix(y_true_idx, y_pred_idx)
     plot_history(history)
 
-    
+    print("\n" + "=" * 55)
+    print(f"   DONE! Accuracy: {acc * 100:.2f}%")
+    print(f"   Model saved : {MODEL_SAVE}")
+    print("=" * 55)
