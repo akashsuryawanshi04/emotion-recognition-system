@@ -1,3 +1,5 @@
+# 🎭 Emotion Recognition from Speech & Facial Expressions
+**MCA Mega Project** | Python · TensorFlow · OpenCV · Streamlit
 
 ---
 
