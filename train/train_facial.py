@@ -1,6 +1,6 @@
 """
 
-Author - Akash Su
+Author - Akash Sur
 train/train_facial.py
 Full training pipeline for Facial Emotion Recognition.
 
