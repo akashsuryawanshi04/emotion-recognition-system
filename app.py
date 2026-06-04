@@ -1,4 +1,14 @@
+"""
+app.py
+Main Streamlit Application — Emotion Recognition from Speech & Facial Expressions
 
+Features:
+  - Mode 1: Video Recording Upload → analyze full video, show results + timeline
+  - Mode 2: Live Webcam → real-time facial + speech emotion detection
+
+Run:
+    streamlit run app.py
+"""
  
 import os
 import sys
