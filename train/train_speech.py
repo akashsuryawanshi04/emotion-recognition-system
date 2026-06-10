@@ -1,6 +1,6 @@
 """
 
-Author - Akash Sury
+Author - Akash Surya
 train/train_speech.py
 Full training pipeline for Speech Emotion Recognition.
 
